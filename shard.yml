@@ -1,0 +1,9 @@
+name: colors
+version: 0.1.0
+
+authors:
+  - Spencer King <spencerking@users.noreply.github.com>
+
+crystal: 0.25.0
+
+license: MIT
